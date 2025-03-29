@@ -1,6 +1,4 @@
 
-
-
 Robinhood Cash Delivery
 💵 Robinhood Cash Delivery Simulation: Secure, Same-Day Delivery via Decentralized Supply Chain
 "Secure, same-day cash delivery through a decentralized supply chain—modeled for Robinhood."
